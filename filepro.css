@@ -1,0 +1,118 @@
+.bio{
+    width: 100rem;
+    height:55rem;
+    position: absolute;
+    top:10rem;
+    left:25rem;
+    padding-left:1rem;
+    padding-right:1rem;
+    border-style:ridge;
+    border-width:0.1rem;
+    border-color:black;
+    border-radius:1rem;
+
+}
+.edu{
+    width: 100rem;
+    height: 25rem;
+    position: absolute;
+    top:70rem;
+    left:25rem;
+    padding-left:1rem;
+    padding-right: 1rem;
+    border-style:ridge;
+    border-width:0.1rem;
+    border-color:black;
+    border-radius:1rem;
+}
+.ch{
+    width: 50rem;
+   height:18rem;
+   position: absolute;
+   top:100rem;
+   left:25rem;
+   padding-left:1rem;
+   padding-right:1rem;
+   border-style:ridge;
+   border-width:0.5rem;
+   border-color:darkblue;
+   border-radius:1rem;
+}
+.omg{
+   width: 50rem;
+   height:18rem;
+   position: absolute;
+   top:120rem;
+   left:25rem;
+   padding-left:1rem;
+   padding-right:1rem;
+   border-style:ridge;
+   border-width:0.5rem;
+   border-color:brown;
+   border-radius:1rem;
+}
+.pool{
+    width: 50rem;
+   height:18rem;
+   position: absolute;
+   top:140rem;
+   left:25rem;
+   padding-left:1rem;
+   padding-right:1rem;
+   border-style:ridge;
+   border-width:0.5rem;
+   border-color:darkorange;
+   border-radius:1rem;
+}
+.PANI{
+    width: 50rem;
+    height:18rem;
+    position: absolute;
+    top:160rem;
+    left:25rem;
+    padding-left:1rem;
+    padding-right:1rem;
+    border-style:ridge;
+    border-width:0.5rem;
+    border-color:darkcyan;
+    border-radius:1rem;
+}
+.pas{
+    width: 50rem;
+    height:18rem;
+    position: absolute;
+    top:180rem;
+    left:25rem;
+    padding-left:1rem;
+    padding-right:1rem;
+    border-style:ridge;
+    border-width:0.5rem;
+    border-color:lightgrey;
+    border-radius:1rem;
+}
+.da{
+    width: 50rem;
+   height:18rem;
+   position: absolute;
+   top:200rem;
+   left:25rem;
+   padding-left:1rem;
+   padding-right:1rem;
+   border-style:ridge;
+   border-width:0.5rem;
+   border-color: blueviolet;
+   border-radius:1rem;
+}
+.db{
+    width: 70rem;
+    height:18rem;
+    position: absolute;
+    top:220rem;
+    left:25rem;
+    padding-left:1rem;
+    padding-right:1rem;
+    border-style:ridge;
+    border-width:0.5rem;
+    border-color:green;
+    border-radius:1rem;
+}
